@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sarvesh567kapoor
 - 👀 I’m interested in computer engineering jobs 
-- 🌱 I’m currently learning ..
+- 👨‍🎓  Graduated In computer Science from Dit University
+- 🌱 I’m currently learning web development  technologies
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 sarveshkap49@gmail.com
 
 <!---
 sarvesh567kapoor/sarvesh567kapoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
